@@ -102,14 +102,15 @@ Contributions are always welcome!
 - [ ] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
 - [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 - [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [ ] [Database Storage Engines](https://en.wikipedia.org/wiki/Database_engine)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
 - [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
-- [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
-- [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
+- [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+- [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
+- [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
 - [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
-- [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
 
 ## CI/CD
 
